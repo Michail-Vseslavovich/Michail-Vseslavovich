@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**asadbasharovich/asadbasharovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, Humo!</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Here are some ideas to get you started:
+### 👨‍💻 Обо мне:
+I am a young programmer from Moskow with a good knowledge of python and a little bit of c#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+</a>
+    <a href="https://t.me/hum0_r1st" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram group" />
+
+  </a>
+    <a href="https://discordapp.com/users/759708002382774292" target="_blank">
+      <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="50" height="50" alt="VK Badge"/>
+
+  ### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp
+</div>
