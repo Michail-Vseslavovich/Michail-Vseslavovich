@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there, Humo!</a> 
+<h1 align="center">Hi there, i am Michail!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 👨‍💻 Обо мне:
