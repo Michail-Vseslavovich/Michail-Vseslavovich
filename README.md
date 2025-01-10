@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 👨‍💻 Обо мне:
-I am a young programmer from Moskow with a good knowledge of python and a little bit of c#
+I am a young programmer from Moskow with a middle knowledge of python and c#
 
 
 
